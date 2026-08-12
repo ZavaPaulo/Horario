@@ -9,24 +9,24 @@
   </tr>
   <tr>
     <td>Londrinense Tech</td>
-    <td>Matrizes A.L.</td>
+    <td>Algoritmos de matrizes</td>
     <td>Pensamento Computacional</td>
-    <td>Matrizes A.L.</td>
-    <td>]!=!%<!></td>
+    <td>Algoritmos de matrizes</td>
+    <td>Trablho do Marcelo</td>
   </tr>
   <tr>
-    <td>Arrumar o GitHub</td>
-    <td>Matrizes A.L.</td>
+    <td>Relatório Londrinense</td>
+    <td>Algoritmos de matrizes</td>
     <td>Relatório P.C.</td>
-    <td>Matrizes A.L.</td>
-    <td>]!=!%<!></td>
+    <td>Algoritmos de matrizes</td>
+    <td>Grupo de pesquisa de IA<td>
   </tr>
   <tr>
     <td>Relatório Londrinense Tech</td>
-    <td>Matrizes A.L.</td>
+    <td>Algoritmos de matrizes</td>
     <td>Texte de digitação</td>
-    <td>Matrizes A.L.</td>
-    <td>]!=!%<!></td>
+    <td>Algoritmos de matrizes</td>
+    <td>Grupo de pesquisa de IA</td>
   </tr>
 </table>
 
