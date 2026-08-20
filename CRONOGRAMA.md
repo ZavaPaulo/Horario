@@ -8,24 +8,31 @@
     <td class="dia">Sexta</td>
   </tr>
   <tr>
+    <td>Arrumar Cronograma</td>
+    <td>Arrumar Cronograma</td>
+    <td>Arrumar Cronograma</td>
+    <td>Arrumar Cronograma</td>
+    <td>Arrumar Cronograma</td>
+  </tr>
+  <tr>
     <td>Londrinense Tech</td>
     <td>Algoritmos de matrizes</td>
     <td>Pensamento Computacional</td>
-    <td>Algoritmos de matrizes</td>
+    <td>Trabalho do Marcelo</td>
     <td>Trablho do Marcelo</td>
   </tr>
   <tr>
     <td>Relatório Londrinense</td>
     <td>Algoritmos de matrizes</td>
     <td>Relatório P.C.</td>
-    <td>Algoritmos de matrizes</td>
+    <td>Trabalho do Marcelo</td>
     <td>Grupo de pesquisa de IA<td>
   </tr>
   <tr>
     <td>Relatório Londrinense Tech</td>
     <td>Algoritmos de matrizes</td>
     <td>Texte de digitação</td>
-    <td>Algoritmos de matrizes</td>
+    <td>Trabalho do Marcelo</td>
     <td>Grupo de pesquisa de IA</td>
   </tr>
 </table>
